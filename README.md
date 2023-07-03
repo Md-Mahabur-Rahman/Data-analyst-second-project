@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md. Mahabur Rahman from Bangladesh</h1>
 <h3 align="center">Data analyst</h3>
 
-- 🌱 I’m currently learning **Machine Learning, Deep Learning**
+- 🌱 I’m currently learning **Data Analyst, Machine Learning, Deep Learning**
 
 - 🤝 I’m looking for help with **Machine Learning,**
 
